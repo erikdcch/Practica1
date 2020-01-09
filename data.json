@@ -1,1049 +1,299 @@
-{
-   "version":1,
-   "type":"eventlist",
-   "id":"2887017",
-   "title":"EventList title (es-MX placeholder)",
-   "total":40,
-   "tiles":[
-      {
-         "type":"event",
-         "id":"event.8355f537-5a97-451e-8716-b14e10e41652",
-         "title":"SportsCenter",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=8355f537-5a97-451e-8716-b14e10e41652",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.8355f537-5a97-451e-8716-b14e10e41652:link:8355f537-5a97-451e-8716-b14e10e41652",
-            "id":"8355f537-5a97-451e-8716-b14e10e41652",
-            "value":"8355f537-5a97-451e-8716-b14e10e41652",
-            "urlValue":"/{locale}/event/8355f537-5a97-451e-8716-b14e10e41652"
-         },
-         "event":{
-            "id":"8355f537-5a97-451e-8716-b14e10e41652",
-            "brand":"040",
-            "title":"SportsCenter",
-            "startEpoch":1576018800,
-            "endEpoch":1576022400,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.8fed48e9-5f9f-49b6-8eee-e1f2a79ffa9e",
-         "title":"Jimmy V Classic presented by Corona",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=8fed48e9-5f9f-49b6-8eee-e1f2a79ffa9e",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.8fed48e9-5f9f-49b6-8eee-e1f2a79ffa9e:link:8fed48e9-5f9f-49b6-8eee-e1f2a79ffa9e",
-            "id":"8fed48e9-5f9f-49b6-8eee-e1f2a79ffa9e",
-            "value":"8fed48e9-5f9f-49b6-8eee-e1f2a79ffa9e",
-            "urlValue":"/{locale}/event/8fed48e9-5f9f-49b6-8eee-e1f2a79ffa9e"
-         },
-         "event":{
-            "id":"8fed48e9-5f9f-49b6-8eee-e1f2a79ffa9e",
-            "brand":"040",
-            "title":"Jimmy V Classic presented by Corona",
-            "startEpoch":1576022400,
-            "endEpoch":1576029600,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.824f6872-3568-45b8-8e65-7f562e3df374",
-         "title":"College GameDay Covered by State Farm",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=824f6872-3568-45b8-8e65-7f562e3df374",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.824f6872-3568-45b8-8e65-7f562e3df374:link:824f6872-3568-45b8-8e65-7f562e3df374",
-            "id":"824f6872-3568-45b8-8e65-7f562e3df374",
-            "value":"824f6872-3568-45b8-8e65-7f562e3df374",
-            "urlValue":"/{locale}/event/824f6872-3568-45b8-8e65-7f562e3df374"
-         },
-         "event":{
-            "id":"824f6872-3568-45b8-8e65-7f562e3df374",
-            "brand":"040",
-            "title":"College GameDay Covered by State Farm",
-            "startEpoch":1576029600,
-            "endEpoch":1576031400,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.fe048488-612f-43e4-9b28-5877f3ffb6c2",
-         "title":"Jimmy V Classic presented by Corona",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=fe048488-612f-43e4-9b28-5877f3ffb6c2",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.fe048488-612f-43e4-9b28-5877f3ffb6c2:link:fe048488-612f-43e4-9b28-5877f3ffb6c2",
-            "id":"fe048488-612f-43e4-9b28-5877f3ffb6c2",
-            "value":"fe048488-612f-43e4-9b28-5877f3ffb6c2",
-            "urlValue":"/{locale}/event/fe048488-612f-43e4-9b28-5877f3ffb6c2"
-         },
-         "event":{
-            "id":"fe048488-612f-43e4-9b28-5877f3ffb6c2",
-            "brand":"040",
-            "title":"Jimmy V Classic presented by Corona",
-            "startEpoch":1576031400,
-            "endEpoch":1576038600,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.44a74eb0-5556-4e61-b56b-835883dfe4d4",
-         "title":"SportsCenter with Scott Van Pelt",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=44a74eb0-5556-4e61-b56b-835883dfe4d4",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.44a74eb0-5556-4e61-b56b-835883dfe4d4:link:44a74eb0-5556-4e61-b56b-835883dfe4d4",
-            "id":"44a74eb0-5556-4e61-b56b-835883dfe4d4",
-            "value":"44a74eb0-5556-4e61-b56b-835883dfe4d4",
-            "urlValue":"/{locale}/event/44a74eb0-5556-4e61-b56b-835883dfe4d4"
-         },
-         "event":{
-            "id":"44a74eb0-5556-4e61-b56b-835883dfe4d4",
-            "brand":"040",
-            "title":"SportsCenter with Scott Van Pelt",
-            "startEpoch":1576038600,
-            "endEpoch":1576044000,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.4717dc06-f2af-4f80-be4e-6e0adfb48b81",
-         "title":"SportsCenter",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=4717dc06-f2af-4f80-be4e-6e0adfb48b81",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.4717dc06-f2af-4f80-be4e-6e0adfb48b81:link:4717dc06-f2af-4f80-be4e-6e0adfb48b81",
-            "id":"4717dc06-f2af-4f80-be4e-6e0adfb48b81",
-            "value":"4717dc06-f2af-4f80-be4e-6e0adfb48b81",
-            "urlValue":"/{locale}/event/4717dc06-f2af-4f80-be4e-6e0adfb48b81"
-         },
-         "event":{
-            "id":"4717dc06-f2af-4f80-be4e-6e0adfb48b81",
-            "brand":"040",
-            "title":"SportsCenter",
-            "startEpoch":1576044000,
-            "endEpoch":1576047600,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.53364a0d-adff-41d4-808e-3f6dfdf7454a",
-         "title":"SportsCenter",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=53364a0d-adff-41d4-808e-3f6dfdf7454a",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.53364a0d-adff-41d4-808e-3f6dfdf7454a:link:53364a0d-adff-41d4-808e-3f6dfdf7454a",
-            "id":"53364a0d-adff-41d4-808e-3f6dfdf7454a",
-            "value":"53364a0d-adff-41d4-808e-3f6dfdf7454a",
-            "urlValue":"/{locale}/event/53364a0d-adff-41d4-808e-3f6dfdf7454a"
-         },
-         "event":{
-            "id":"53364a0d-adff-41d4-808e-3f6dfdf7454a",
-            "brand":"040",
-            "title":"SportsCenter",
-            "startEpoch":1576047600,
-            "endEpoch":1576051200,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.07a9afd6-c193-4703-a1c1-cc9cefa073ef",
-         "title":"SportsCenter",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=07a9afd6-c193-4703-a1c1-cc9cefa073ef",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.07a9afd6-c193-4703-a1c1-cc9cefa073ef:link:07a9afd6-c193-4703-a1c1-cc9cefa073ef",
-            "id":"07a9afd6-c193-4703-a1c1-cc9cefa073ef",
-            "value":"07a9afd6-c193-4703-a1c1-cc9cefa073ef",
-            "urlValue":"/{locale}/event/07a9afd6-c193-4703-a1c1-cc9cefa073ef"
-         },
-         "event":{
-            "id":"07a9afd6-c193-4703-a1c1-cc9cefa073ef",
-            "brand":"040",
-            "title":"SportsCenter",
-            "startEpoch":1576065600,
-            "endEpoch":1576069200,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.8c660f6b-ac5b-47ec-8eca-e514b4b6b190",
-         "title":"Get Up!",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=8c660f6b-ac5b-47ec-8eca-e514b4b6b190",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.8c660f6b-ac5b-47ec-8eca-e514b4b6b190:link:8c660f6b-ac5b-47ec-8eca-e514b4b6b190",
-            "id":"8c660f6b-ac5b-47ec-8eca-e514b4b6b190",
-            "value":"8c660f6b-ac5b-47ec-8eca-e514b4b6b190",
-            "urlValue":"/{locale}/event/8c660f6b-ac5b-47ec-8eca-e514b4b6b190"
-         },
-         "event":{
-            "id":"8c660f6b-ac5b-47ec-8eca-e514b4b6b190",
-            "brand":"040",
-            "title":"Get Up!",
-            "startEpoch":1576069200,
-            "endEpoch":1576076400,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.98ecb374-0120-45a9-b466-7ea5bc6fad2d",
-         "title":"Around The Horn",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=98ecb374-0120-45a9-b466-7ea5bc6fad2d",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.98ecb374-0120-45a9-b466-7ea5bc6fad2d:link:98ecb374-0120-45a9-b466-7ea5bc6fad2d",
-            "id":"98ecb374-0120-45a9-b466-7ea5bc6fad2d",
-            "value":"98ecb374-0120-45a9-b466-7ea5bc6fad2d",
-            "urlValue":"/{locale}/event/98ecb374-0120-45a9-b466-7ea5bc6fad2d"
-         },
-         "event":{
-            "id":"98ecb374-0120-45a9-b466-7ea5bc6fad2d",
-            "brand":"040",
-            "title":"Around The Horn",
-            "startEpoch":1576076400,
-            "endEpoch":1576083600,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.4fd966dd-f9c7-40ed-95cd-af0a39313eba",
-         "title":"SportsCenter",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=4fd966dd-f9c7-40ed-95cd-af0a39313eba",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.4fd966dd-f9c7-40ed-95cd-af0a39313eba:link:4fd966dd-f9c7-40ed-95cd-af0a39313eba",
-            "id":"4fd966dd-f9c7-40ed-95cd-af0a39313eba",
-            "value":"4fd966dd-f9c7-40ed-95cd-af0a39313eba",
-            "urlValue":"/{locale}/event/4fd966dd-f9c7-40ed-95cd-af0a39313eba"
-         },
-         "event":{
-            "id":"4fd966dd-f9c7-40ed-95cd-af0a39313eba",
-            "brand":"040",
-            "title":"SportsCenter",
-            "startEpoch":1576083600,
-            "endEpoch":1576087200,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.d6d86bab-ae56-4d0d-9145-6b3418d49c89",
-         "title":"Outside The Lines",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=d6d86bab-ae56-4d0d-9145-6b3418d49c89",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.d6d86bab-ae56-4d0d-9145-6b3418d49c89:link:d6d86bab-ae56-4d0d-9145-6b3418d49c89",
-            "id":"d6d86bab-ae56-4d0d-9145-6b3418d49c89",
-            "value":"d6d86bab-ae56-4d0d-9145-6b3418d49c89",
-            "urlValue":"/{locale}/event/d6d86bab-ae56-4d0d-9145-6b3418d49c89"
-         },
-         "event":{
-            "id":"d6d86bab-ae56-4d0d-9145-6b3418d49c89",
-            "brand":"040",
-            "title":"Outside The Lines",
-            "startEpoch":1576087200,
-            "endEpoch":1576089000,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.66127e02-2b0b-4ef4-9003-3d5ce9a7a2f4",
-         "title":"NFL Live",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=66127e02-2b0b-4ef4-9003-3d5ce9a7a2f4",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.66127e02-2b0b-4ef4-9003-3d5ce9a7a2f4:link:66127e02-2b0b-4ef4-9003-3d5ce9a7a2f4",
-            "id":"66127e02-2b0b-4ef4-9003-3d5ce9a7a2f4",
-            "value":"66127e02-2b0b-4ef4-9003-3d5ce9a7a2f4",
-            "urlValue":"/{locale}/event/66127e02-2b0b-4ef4-9003-3d5ce9a7a2f4"
-         },
-         "event":{
-            "id":"66127e02-2b0b-4ef4-9003-3d5ce9a7a2f4",
-            "brand":"040",
-            "title":"NFL Live",
-            "startEpoch":1576089000,
-            "endEpoch":1576094400,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.22539059-e4f7-4b64-be67-d0e4a1fb4f98",
-         "title":"NBA: The Jump Fueled by Marathon Petroleum",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=22539059-e4f7-4b64-be67-d0e4a1fb4f98",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.22539059-e4f7-4b64-be67-d0e4a1fb4f98:link:22539059-e4f7-4b64-be67-d0e4a1fb4f98",
-            "id":"22539059-e4f7-4b64-be67-d0e4a1fb4f98",
-            "value":"22539059-e4f7-4b64-be67-d0e4a1fb4f98",
-            "urlValue":"/{locale}/event/22539059-e4f7-4b64-be67-d0e4a1fb4f98"
-         },
-         "event":{
-            "id":"22539059-e4f7-4b64-be67-d0e4a1fb4f98",
-            "brand":"040",
-            "title":"NBA: The Jump Fueled by Marathon Petroleum",
-            "startEpoch":1576094400,
-            "endEpoch":1576098000,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.7034a6fd-2cb5-4ab2-911a-d4df8c369d3e",
-         "title":"HIGH NOON",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=7034a6fd-2cb5-4ab2-911a-d4df8c369d3e",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.7034a6fd-2cb5-4ab2-911a-d4df8c369d3e:link:7034a6fd-2cb5-4ab2-911a-d4df8c369d3e",
-            "id":"7034a6fd-2cb5-4ab2-911a-d4df8c369d3e",
-            "value":"7034a6fd-2cb5-4ab2-911a-d4df8c369d3e",
-            "urlValue":"/{locale}/event/7034a6fd-2cb5-4ab2-911a-d4df8c369d3e"
-         },
-         "event":{
-            "id":"7034a6fd-2cb5-4ab2-911a-d4df8c369d3e",
-            "brand":"040",
-            "title":"HIGH NOON",
-            "startEpoch":1576098000,
-            "endEpoch":1576099800,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.ff3d2bc6-dfa8-42b4-820b-2b5a3463019d",
-         "title":"Highly Questionable",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=ff3d2bc6-dfa8-42b4-820b-2b5a3463019d",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.ff3d2bc6-dfa8-42b4-820b-2b5a3463019d:link:ff3d2bc6-dfa8-42b4-820b-2b5a3463019d",
-            "id":"ff3d2bc6-dfa8-42b4-820b-2b5a3463019d",
-            "value":"ff3d2bc6-dfa8-42b4-820b-2b5a3463019d",
-            "urlValue":"/{locale}/event/ff3d2bc6-dfa8-42b4-820b-2b5a3463019d"
-         },
-         "event":{
-            "id":"ff3d2bc6-dfa8-42b4-820b-2b5a3463019d",
-            "brand":"040",
-            "title":"Highly Questionable",
-            "startEpoch":1576099800,
-            "endEpoch":1576101600,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.8d7d4123-f804-4ec9-a519-9fac6124dd03",
-         "title":"Around The Horn",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=8d7d4123-f804-4ec9-a519-9fac6124dd03",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.8d7d4123-f804-4ec9-a519-9fac6124dd03:link:8d7d4123-f804-4ec9-a519-9fac6124dd03",
-            "id":"8d7d4123-f804-4ec9-a519-9fac6124dd03",
-            "value":"8d7d4123-f804-4ec9-a519-9fac6124dd03",
-            "urlValue":"/{locale}/event/8d7d4123-f804-4ec9-a519-9fac6124dd03"
-         },
-         "event":{
-            "id":"8d7d4123-f804-4ec9-a519-9fac6124dd03",
-            "brand":"040",
-            "title":"Around The Horn",
-            "startEpoch":1576101600,
-            "endEpoch":1576103400,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.c5d62b70-a14d-41f0-b796-b7e7da51701a",
-         "title":"Pardon The Interruption",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=c5d62b70-a14d-41f0-b796-b7e7da51701a",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.c5d62b70-a14d-41f0-b796-b7e7da51701a:link:c5d62b70-a14d-41f0-b796-b7e7da51701a",
-            "id":"c5d62b70-a14d-41f0-b796-b7e7da51701a",
-            "value":"c5d62b70-a14d-41f0-b796-b7e7da51701a",
-            "urlValue":"/{locale}/event/c5d62b70-a14d-41f0-b796-b7e7da51701a"
-         },
-         "event":{
-            "id":"c5d62b70-a14d-41f0-b796-b7e7da51701a",
-            "brand":"040",
-            "title":"Pardon The Interruption",
-            "startEpoch":1576103400,
-            "endEpoch":1576105200,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.a34fc95d-de9c-443e-b530-b6190c375feb",
-         "title":"SportsCenter",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=a34fc95d-de9c-443e-b530-b6190c375feb",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.a34fc95d-de9c-443e-b530-b6190c375feb:link:a34fc95d-de9c-443e-b530-b6190c375feb",
-            "id":"a34fc95d-de9c-443e-b530-b6190c375feb",
-            "value":"a34fc95d-de9c-443e-b530-b6190c375feb",
-            "urlValue":"/{locale}/event/a34fc95d-de9c-443e-b530-b6190c375feb"
-         },
-         "event":{
-            "id":"a34fc95d-de9c-443e-b530-b6190c375feb",
-            "brand":"040",
-            "title":"SportsCenter",
-            "startEpoch":1576105200,
-            "endEpoch":1576108800,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.6e1d0e7c-3b2f-4059-8514-8012bb44dbac",
-         "title":"NBA Courtside Presented by McDonald's",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=6e1d0e7c-3b2f-4059-8514-8012bb44dbac",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.6e1d0e7c-3b2f-4059-8514-8012bb44dbac:link:6e1d0e7c-3b2f-4059-8514-8012bb44dbac",
-            "id":"6e1d0e7c-3b2f-4059-8514-8012bb44dbac",
-            "value":"6e1d0e7c-3b2f-4059-8514-8012bb44dbac",
-            "urlValue":"/{locale}/event/6e1d0e7c-3b2f-4059-8514-8012bb44dbac"
-         },
-         "event":{
-            "id":"6e1d0e7c-3b2f-4059-8514-8012bb44dbac",
-            "brand":"040",
-            "title":"NBA Courtside Presented by McDonald's",
-            "startEpoch":1576108800,
-            "endEpoch":1576109700,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.24a0e2d9-1cbd-4eeb-b65e-2823f2c63b2b",
-         "title":"NBA Wednesday Presented by State Farm",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=24a0e2d9-1cbd-4eeb-b65e-2823f2c63b2b",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.24a0e2d9-1cbd-4eeb-b65e-2823f2c63b2b:link:24a0e2d9-1cbd-4eeb-b65e-2823f2c63b2b",
-            "id":"24a0e2d9-1cbd-4eeb-b65e-2823f2c63b2b",
-            "value":"24a0e2d9-1cbd-4eeb-b65e-2823f2c63b2b",
-            "urlValue":"/{locale}/event/24a0e2d9-1cbd-4eeb-b65e-2823f2c63b2b"
-         },
-         "event":{
-            "id":"24a0e2d9-1cbd-4eeb-b65e-2823f2c63b2b",
-            "brand":"040",
-            "title":"NBA Wednesday Presented by State Farm",
-            "startEpoch":1576109700,
-            "endEpoch":1576118100,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.540105b6-52d1-404d-b6c0-b4e9e7066844",
-         "title":"NBA Wednesday Presented by State Farm",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=540105b6-52d1-404d-b6c0-b4e9e7066844",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.540105b6-52d1-404d-b6c0-b4e9e7066844:link:540105b6-52d1-404d-b6c0-b4e9e7066844",
-            "id":"540105b6-52d1-404d-b6c0-b4e9e7066844",
-            "value":"540105b6-52d1-404d-b6c0-b4e9e7066844",
-            "urlValue":"/{locale}/event/540105b6-52d1-404d-b6c0-b4e9e7066844"
-         },
-         "event":{
-            "id":"540105b6-52d1-404d-b6c0-b4e9e7066844",
-            "brand":"040",
-            "title":"NBA Wednesday Presented by State Farm",
-            "startEpoch":1576118100,
-            "endEpoch":1576127100,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.86bacb35-00b6-48ea-b9fa-27f9c4662cd0",
-         "title":"SportsCenter with Scott Van Pelt",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=86bacb35-00b6-48ea-b9fa-27f9c4662cd0",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.86bacb35-00b6-48ea-b9fa-27f9c4662cd0:link:86bacb35-00b6-48ea-b9fa-27f9c4662cd0",
-            "id":"86bacb35-00b6-48ea-b9fa-27f9c4662cd0",
-            "value":"86bacb35-00b6-48ea-b9fa-27f9c4662cd0",
-            "urlValue":"/{locale}/event/86bacb35-00b6-48ea-b9fa-27f9c4662cd0"
-         },
-         "event":{
-            "id":"86bacb35-00b6-48ea-b9fa-27f9c4662cd0",
-            "brand":"040",
-            "title":"SportsCenter with Scott Van Pelt",
-            "startEpoch":1576127100,
-            "endEpoch":1576130400,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.6f08dc0f-c491-45ab-8249-e566edb50a14",
-         "title":"Bodyshaping with Cory Everson",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=6f08dc0f-c491-45ab-8249-e566edb50a14",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.6f08dc0f-c491-45ab-8249-e566edb50a14:link:6f08dc0f-c491-45ab-8249-e566edb50a14",
-            "id":"6f08dc0f-c491-45ab-8249-e566edb50a14",
-            "value":"6f08dc0f-c491-45ab-8249-e566edb50a14",
-            "urlValue":"/{locale}/event/6f08dc0f-c491-45ab-8249-e566edb50a14"
-         },
-         "event":{
-            "id":"6f08dc0f-c491-45ab-8249-e566edb50a14",
-            "brand":"040",
-            "title":"Bodyshaping with Cory Everson",
-            "startEpoch":1576130400,
-            "endEpoch":1576134000,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.82c1583a-da8d-4cb5-9c40-b214bb945335",
-         "title":"SportsCenter",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=82c1583a-da8d-4cb5-9c40-b214bb945335",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.82c1583a-da8d-4cb5-9c40-b214bb945335:link:82c1583a-da8d-4cb5-9c40-b214bb945335",
-            "id":"82c1583a-da8d-4cb5-9c40-b214bb945335",
-            "value":"82c1583a-da8d-4cb5-9c40-b214bb945335",
-            "urlValue":"/{locale}/event/82c1583a-da8d-4cb5-9c40-b214bb945335"
-         },
-         "event":{
-            "id":"82c1583a-da8d-4cb5-9c40-b214bb945335",
-            "brand":"040",
-            "title":"SportsCenter",
-            "startEpoch":1576130400,
-            "endEpoch":1576134000,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.f5d7e126-c3d0-4b2a-ad7f-d4fbe04e0f39",
-         "title":"SportsCenter",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=f5d7e126-c3d0-4b2a-ad7f-d4fbe04e0f39",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.f5d7e126-c3d0-4b2a-ad7f-d4fbe04e0f39:link:f5d7e126-c3d0-4b2a-ad7f-d4fbe04e0f39",
-            "id":"f5d7e126-c3d0-4b2a-ad7f-d4fbe04e0f39",
-            "value":"f5d7e126-c3d0-4b2a-ad7f-d4fbe04e0f39",
-            "urlValue":"/{locale}/event/f5d7e126-c3d0-4b2a-ad7f-d4fbe04e0f39"
-         },
-         "event":{
-            "id":"f5d7e126-c3d0-4b2a-ad7f-d4fbe04e0f39",
-            "brand":"040",
-            "title":"SportsCenter",
-            "startEpoch":1576134000,
-            "endEpoch":1576137600,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.0670ff21-a291-4ac8-901b-db4fd6745c3a",
-         "title":"SportsCenter",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=0670ff21-a291-4ac8-901b-db4fd6745c3a",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.0670ff21-a291-4ac8-901b-db4fd6745c3a:link:0670ff21-a291-4ac8-901b-db4fd6745c3a",
-            "id":"0670ff21-a291-4ac8-901b-db4fd6745c3a",
-            "value":"0670ff21-a291-4ac8-901b-db4fd6745c3a",
-            "urlValue":"/{locale}/event/0670ff21-a291-4ac8-901b-db4fd6745c3a"
-         },
-         "event":{
-            "id":"0670ff21-a291-4ac8-901b-db4fd6745c3a",
-            "brand":"040",
-            "title":"SportsCenter",
-            "startEpoch":1576152000,
-            "endEpoch":1576155600,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.199fc27f-3bb3-4db5-aab2-6ec2878ed522",
-         "title":"Get Up!",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=199fc27f-3bb3-4db5-aab2-6ec2878ed522",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.199fc27f-3bb3-4db5-aab2-6ec2878ed522:link:199fc27f-3bb3-4db5-aab2-6ec2878ed522",
-            "id":"199fc27f-3bb3-4db5-aab2-6ec2878ed522",
-            "value":"199fc27f-3bb3-4db5-aab2-6ec2878ed522",
-            "urlValue":"/{locale}/event/199fc27f-3bb3-4db5-aab2-6ec2878ed522"
-         },
-         "event":{
-            "id":"199fc27f-3bb3-4db5-aab2-6ec2878ed522",
-            "brand":"040",
-            "title":"Get Up!",
-            "startEpoch":1576155600,
-            "endEpoch":1576162800,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.200e8ce2-61a9-45a1-8a34-337174183053",
-         "title":"Around The Horn",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=200e8ce2-61a9-45a1-8a34-337174183053",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.200e8ce2-61a9-45a1-8a34-337174183053:link:200e8ce2-61a9-45a1-8a34-337174183053",
-            "id":"200e8ce2-61a9-45a1-8a34-337174183053",
-            "value":"200e8ce2-61a9-45a1-8a34-337174183053",
-            "urlValue":"/{locale}/event/200e8ce2-61a9-45a1-8a34-337174183053"
-         },
-         "event":{
-            "id":"200e8ce2-61a9-45a1-8a34-337174183053",
-            "brand":"040",
-            "title":"Around The Horn",
-            "startEpoch":1576162800,
-            "endEpoch":1576170000,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.d5d59ece-8c29-478f-bc6c-616e96fdb763",
-         "title":"First Take",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=d5d59ece-8c29-478f-bc6c-616e96fdb763",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.d5d59ece-8c29-478f-bc6c-616e96fdb763:link:d5d59ece-8c29-478f-bc6c-616e96fdb763",
-            "id":"d5d59ece-8c29-478f-bc6c-616e96fdb763",
-            "value":"d5d59ece-8c29-478f-bc6c-616e96fdb763",
-            "urlValue":"/{locale}/event/d5d59ece-8c29-478f-bc6c-616e96fdb763"
-         },
-         "event":{
-            "id":"d5d59ece-8c29-478f-bc6c-616e96fdb763",
-            "brand":"040",
-            "title":"First Take",
-            "startEpoch":1576162800,
-            "endEpoch":1576170000,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.4c86c535-f2ce-43fb-8eb7-ec9da70be9e9",
-         "title":"SportsCenter",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=4c86c535-f2ce-43fb-8eb7-ec9da70be9e9",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.4c86c535-f2ce-43fb-8eb7-ec9da70be9e9:link:4c86c535-f2ce-43fb-8eb7-ec9da70be9e9",
-            "id":"4c86c535-f2ce-43fb-8eb7-ec9da70be9e9",
-            "value":"4c86c535-f2ce-43fb-8eb7-ec9da70be9e9",
-            "urlValue":"/{locale}/event/4c86c535-f2ce-43fb-8eb7-ec9da70be9e9"
-         },
-         "event":{
-            "id":"4c86c535-f2ce-43fb-8eb7-ec9da70be9e9",
-            "brand":"040",
-            "title":"SportsCenter",
-            "startEpoch":1576170000,
-            "endEpoch":1576173600,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.b4992f63-d5af-40f1-9709-2dcde6ea1773",
-         "title":"Outside The Lines",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=b4992f63-d5af-40f1-9709-2dcde6ea1773",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.b4992f63-d5af-40f1-9709-2dcde6ea1773:link:b4992f63-d5af-40f1-9709-2dcde6ea1773",
-            "id":"b4992f63-d5af-40f1-9709-2dcde6ea1773",
-            "value":"b4992f63-d5af-40f1-9709-2dcde6ea1773",
-            "urlValue":"/{locale}/event/b4992f63-d5af-40f1-9709-2dcde6ea1773"
-         },
-         "event":{
-            "id":"b4992f63-d5af-40f1-9709-2dcde6ea1773",
-            "brand":"040",
-            "title":"Outside The Lines",
-            "startEpoch":1576173600,
-            "endEpoch":1576175400,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.09044e4d-6859-4332-a6bf-800341197525",
-         "title":"NFL Live",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=09044e4d-6859-4332-a6bf-800341197525",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.09044e4d-6859-4332-a6bf-800341197525:link:09044e4d-6859-4332-a6bf-800341197525",
-            "id":"09044e4d-6859-4332-a6bf-800341197525",
-            "value":"09044e4d-6859-4332-a6bf-800341197525",
-            "urlValue":"/{locale}/event/09044e4d-6859-4332-a6bf-800341197525"
-         },
-         "event":{
-            "id":"09044e4d-6859-4332-a6bf-800341197525",
-            "brand":"040",
-            "title":"NFL Live",
-            "startEpoch":1576175400,
-            "endEpoch":1576180800,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.12f22627-f32a-49fb-aef9-c5cf3034a02d",
-         "title":"NBA: The Jump Fueled by Marathon Petroleum",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=12f22627-f32a-49fb-aef9-c5cf3034a02d",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.12f22627-f32a-49fb-aef9-c5cf3034a02d:link:12f22627-f32a-49fb-aef9-c5cf3034a02d",
-            "id":"12f22627-f32a-49fb-aef9-c5cf3034a02d",
-            "value":"12f22627-f32a-49fb-aef9-c5cf3034a02d",
-            "urlValue":"/{locale}/event/12f22627-f32a-49fb-aef9-c5cf3034a02d"
-         },
-         "event":{
-            "id":"12f22627-f32a-49fb-aef9-c5cf3034a02d",
-            "brand":"040",
-            "title":"NBA: The Jump Fueled by Marathon Petroleum",
-            "startEpoch":1576180800,
-            "endEpoch":1576184400,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.92a2301e-fe63-456f-b7b7-37887b7c2d8e",
-         "title":"HIGH NOON",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=92a2301e-fe63-456f-b7b7-37887b7c2d8e",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.92a2301e-fe63-456f-b7b7-37887b7c2d8e:link:92a2301e-fe63-456f-b7b7-37887b7c2d8e",
-            "id":"92a2301e-fe63-456f-b7b7-37887b7c2d8e",
-            "value":"92a2301e-fe63-456f-b7b7-37887b7c2d8e",
-            "urlValue":"/{locale}/event/92a2301e-fe63-456f-b7b7-37887b7c2d8e"
-         },
-         "event":{
-            "id":"92a2301e-fe63-456f-b7b7-37887b7c2d8e",
-            "brand":"040",
-            "title":"HIGH NOON",
-            "startEpoch":1576184400,
-            "endEpoch":1576186200,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.0eaac7f6-b500-4b60-bf4c-6c2fac6fd190",
-         "title":"Highly Questionable",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=0eaac7f6-b500-4b60-bf4c-6c2fac6fd190",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.0eaac7f6-b500-4b60-bf4c-6c2fac6fd190:link:0eaac7f6-b500-4b60-bf4c-6c2fac6fd190",
-            "id":"0eaac7f6-b500-4b60-bf4c-6c2fac6fd190",
-            "value":"0eaac7f6-b500-4b60-bf4c-6c2fac6fd190",
-            "urlValue":"/{locale}/event/0eaac7f6-b500-4b60-bf4c-6c2fac6fd190"
-         },
-         "event":{
-            "id":"0eaac7f6-b500-4b60-bf4c-6c2fac6fd190",
-            "brand":"040",
-            "title":"Highly Questionable",
-            "startEpoch":1576186200,
-            "endEpoch":1576188000,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.67ab358a-c05a-4dcb-9497-1e8de12d36a8",
-         "title":"Around The Horn",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=67ab358a-c05a-4dcb-9497-1e8de12d36a8",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.67ab358a-c05a-4dcb-9497-1e8de12d36a8:link:67ab358a-c05a-4dcb-9497-1e8de12d36a8",
-            "id":"67ab358a-c05a-4dcb-9497-1e8de12d36a8",
-            "value":"67ab358a-c05a-4dcb-9497-1e8de12d36a8",
-            "urlValue":"/{locale}/event/67ab358a-c05a-4dcb-9497-1e8de12d36a8"
-         },
-         "event":{
-            "id":"67ab358a-c05a-4dcb-9497-1e8de12d36a8",
-            "brand":"040",
-            "title":"Around The Horn",
-            "startEpoch":1576188000,
-            "endEpoch":1576189800,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.10601491-e157-448a-8fd8-4cc808bfad77",
-         "title":"Pardon The Interruption",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=10601491-e157-448a-8fd8-4cc808bfad77",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.10601491-e157-448a-8fd8-4cc808bfad77:link:10601491-e157-448a-8fd8-4cc808bfad77",
-            "id":"10601491-e157-448a-8fd8-4cc808bfad77",
-            "value":"10601491-e157-448a-8fd8-4cc808bfad77",
-            "urlValue":"/{locale}/event/10601491-e157-448a-8fd8-4cc808bfad77"
-         },
-         "event":{
-            "id":"10601491-e157-448a-8fd8-4cc808bfad77",
-            "brand":"040",
-            "title":"Pardon The Interruption",
-            "startEpoch":1576189800,
-            "endEpoch":1576191600,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.9befd16c-0f50-4fa1-98aa-e875eb81b0e8",
-         "title":"SportsCenter",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=9befd16c-0f50-4fa1-98aa-e875eb81b0e8",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.9befd16c-0f50-4fa1-98aa-e875eb81b0e8:link:9befd16c-0f50-4fa1-98aa-e875eb81b0e8",
-            "id":"9befd16c-0f50-4fa1-98aa-e875eb81b0e8",
-            "value":"9befd16c-0f50-4fa1-98aa-e875eb81b0e8",
-            "urlValue":"/{locale}/event/9befd16c-0f50-4fa1-98aa-e875eb81b0e8"
-         },
-         "event":{
-            "id":"9befd16c-0f50-4fa1-98aa-e875eb81b0e8",
-            "brand":"040",
-            "title":"SportsCenter",
-            "startEpoch":1576191600,
-            "endEpoch":1576195200,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      },
-      {
-         "type":"event",
-         "id":"event.b51dbdcf-ccd1-4c50-a81c-44b0d75e6e3f",
-         "title":"College Football Awards",
-         "resource":"https://prod.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=031_04&authlevel=0&type=event&defaultlanguage=es-MX&country=USA&event=b51dbdcf-ccd1-4c50-a81c-44b0d75e6e3f",
-         "link":{
-            "type":"event",
-            "external":false,
-            "disclaimer":false,
-            "uri":"layout:2757288:tile:event.b51dbdcf-ccd1-4c50-a81c-44b0d75e6e3f:link:b51dbdcf-ccd1-4c50-a81c-44b0d75e6e3f",
-            "id":"b51dbdcf-ccd1-4c50-a81c-44b0d75e6e3f",
-            "value":"b51dbdcf-ccd1-4c50-a81c-44b0d75e6e3f",
-            "urlValue":"/{locale}/event/b51dbdcf-ccd1-4c50-a81c-44b0d75e6e3f"
-         },
-         "event":{
-            "id":"b51dbdcf-ccd1-4c50-a81c-44b0d75e6e3f",
-            "brand":"040",
-            "title":"College Football Awards",
-            "startEpoch":1576195200,
-            "endEpoch":1576202400,
-            "state":"post",
-            "accessTags":[
-               "urn:tve:foxsports1"
-            ]
-         }
-      }
+{ 
+"version":1,
+"type":"eventlist",
+"id":"2887017",
+"title":"EventList title (en-US placeholder)",
+"total":33,
+"tiles":[ 
+{ 
+"type":"event",
+"id":"event.42bafda6-1015-40a6-929a-09b10cd2f6f5",
+"title":"Liga de Campeones de la UEFA",
+"resource":"http://qa.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=030&authlevel=0&type=event&defaultlanguage=en-US&country=USA&event=42bafda6-1015-40a6-929a-09b10cd2f6f5",
+"link":{ 
+"type":"event",
+"external":false,
+"disclaimer":false,
+"uri":"layout:2757288:tile:event.42bafda6-1015-40a6-929a-09b10cd2f6f5:link:42bafda6-1015-40a6-929a-09b10cd2f6f5",
+"id":"42bafda6-1015-40a6-929a-09b10cd2f6f5",
+"value":"42bafda6-1015-40a6-929a-09b10cd2f6f5",
+"urlValue":"/en-us/event/42bafda6-1015-40a6-929a-09b10cd2f6f5"
+},
+"images":[ 
+{ 
+"value":"http://artwork.qa.espncdn.com/categories/da52796f-2621-3351-8e77-955da92ea82d/16x9/384x216_20191217195610.jpg",
+"type":"1x1",
+"width":384,
+"height":216,
+"format":"jpg"
+}
+],
+"event":{ 
+"id":"42bafda6-1015-40a6-929a-09b10cd2f6f5",
+"brand":"040",
+"title":"Liga de Campeones de la UEFA",
+"startEpoch":1578499200,
+"endEpoch":1578535200,
+"state":"post",
+"accessTags":[ 
+"urn:tve:foxsports1"
+]
+}
+},
+{ 
+"type":"event",
+"id":"event.8e15a99e-049f-4a76-b520-9c43b7b11402",
+"title":"Liga de Campeones de la UEFA",
+"resource":"http://qa.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=030&authlevel=0&type=event&defaultlanguage=en-US&country=USA&event=8e15a99e-049f-4a76-b520-9c43b7b11402",
+"link":{ 
+"type":"event",
+"external":false,
+"disclaimer":false,
+"uri":"layout:2757288:tile:event.8e15a99e-049f-4a76-b520-9c43b7b11402:link:8e15a99e-049f-4a76-b520-9c43b7b11402",
+"id":"8e15a99e-049f-4a76-b520-9c43b7b11402",
+"value":"8e15a99e-049f-4a76-b520-9c43b7b11402",
+"urlValue":"/en-us/event/8e15a99e-049f-4a76-b520-9c43b7b11402"
+},
+"images":[ 
+{ 
+"value":"http://artwork.qa.espncdn.com/categories/da52796f-2621-3351-8e77-955da92ea82d/16x9/384x216_20191217195610.jpg",
+"type":"1x1",
+"width":384,
+"height":216,
+"format":"jpg"
+}
+],
+"event":{ 
+"id":"8e15a99e-049f-4a76-b520-9c43b7b11402",
+"brand":"040",
+"title":"Liga de Campeones de la UEFA",
+"startEpoch":1578499200,
+"endEpoch":1578535200,
+"state":"post",
+"accessTags":[ 
+"urn:tve:foxsports1"
+]
+}
+},
+{ 
+"type":"event",
+"id":"event.22f5eea0-591a-4fb7-9c67-e0bca5d5f3fd",
+"title":"NBA Wednesday Presented by State Farm",
+"resource":"http://qa.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=030&authlevel=0&type=event&defaultlanguage=en-US&country=USA&event=22f5eea0-591a-4fb7-9c67-e0bca5d5f3fd",
+"link":{ 
+"type":"event",
+"external":false,
+"disclaimer":false,
+"uri":"layout:2757288:tile:event.22f5eea0-591a-4fb7-9c67-e0bca5d5f3fd:link:22f5eea0-591a-4fb7-9c67-e0bca5d5f3fd",
+"id":"22f5eea0-591a-4fb7-9c67-e0bca5d5f3fd",
+"value":"22f5eea0-591a-4fb7-9c67-e0bca5d5f3fd",
+"urlValue":"/en-us/event/22f5eea0-591a-4fb7-9c67-e0bca5d5f3fd"
+},
+"event":{ 
+"id":"22f5eea0-591a-4fb7-9c67-e0bca5d5f3fd",
+"brand":"040",
+"title":"NBA Wednesday Presented by State Farm",
+"startEpoch":1578530700,
+"endEpoch":1578539100,
+"state":"live"
+}
+},
+{ 
+"type":"event",
+"id":"event.82a32ff7-aace-4e0d-8344-1be3c2edde45",
+"title":"NBA Wednesday Presented by State Farm",
+"resource":"http://qa.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=030&authlevel=0&type=event&defaultlanguage=en-US&country=USA&event=82a32ff7-aace-4e0d-8344-1be3c2edde45",
+"link":{ 
+"type":"event",
+"external":false,
+"disclaimer":false,
+"uri":"layout:2757288:tile:event.82a32ff7-aace-4e0d-8344-1be3c2edde45:link:82a32ff7-aace-4e0d-8344-1be3c2edde45",
+"id":"82a32ff7-aace-4e0d-8344-1be3c2edde45",
+"value":"82a32ff7-aace-4e0d-8344-1be3c2edde45",
+"urlValue":"/en-us/event/82a32ff7-aace-4e0d-8344-1be3c2edde45"
+},
+"event":{ 
+"id":"82a32ff7-aace-4e0d-8344-1be3c2edde45",
+"brand":"040",
+"title":"NBA Wednesday Presented by State Farm",
+"startEpoch":1578539100,
+"endEpoch":1578548100,
+"state":"pre"
+}
+},
+{ 
+"type":"event",
+"id":"event.892dc82b-fb19-4953-834d-600cc109a6ce",
+"title":"Liga de Campeones de la UEFA",
+"resource":"http://qa.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=030&authlevel=0&type=event&defaultlanguage=en-US&country=USA&event=892dc82b-fb19-4953-834d-600cc109a6ce",
+"link":{ 
+"type":"event",
+"external":false,
+"disclaimer":false,
+"uri":"layout:2757288:tile:event.892dc82b-fb19-4953-834d-600cc109a6ce:link:892dc82b-fb19-4953-834d-600cc109a6ce",
+"id":"892dc82b-fb19-4953-834d-600cc109a6ce",
+"value":"892dc82b-fb19-4953-834d-600cc109a6ce",
+"urlValue":"/en-us/event/892dc82b-fb19-4953-834d-600cc109a6ce"
+},
+"images":[ 
+{ 
+"value":"http://artwork.qa.espncdn.com/categories/da52796f-2621-3351-8e77-955da92ea82d/16x9/384x216_20191217195610.jpg",
+"type":"1x1",
+"width":384,
+"height":216,
+"format":"jpg"
+}
+],
+"event":{ 
+"id":"892dc82b-fb19-4953-834d-600cc109a6ce",
+"brand":"040",
+"title":"Liga de Campeones de la UEFA",
+"startEpoch":1578585600,
+"endEpoch":1578621600,
+"state":"pre",
+"accessTags":[ 
+"urn:tve:foxsports1"
+]
+}
+},
+{ 
+"type":"event",
+"id":"event.045c52d0-1025-471a-ad4d-bb271898b84d",
+"title":"Liga de Campeones de la UEFA",
+"resource":"http://qa.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=030&authlevel=0&type=event&defaultlanguage=en-US&country=USA&event=045c52d0-1025-471a-ad4d-bb271898b84d",
+"link":{ 
+"type":"event",
+"external":false,
+"disclaimer":false,
+"uri":"layout:2757288:tile:event.045c52d0-1025-471a-ad4d-bb271898b84d:link:045c52d0-1025-471a-ad4d-bb271898b84d",
+"id":"045c52d0-1025-471a-ad4d-bb271898b84d",
+"value":"045c52d0-1025-471a-ad4d-bb271898b84d",
+"urlValue":"/en-us/event/045c52d0-1025-471a-ad4d-bb271898b84d"
+},
+"event":{ 
+"id":"045c52d0-1025-471a-ad4d-bb271898b84d",
+"brand":"040",
+"title":"Liga de Campeones de la UEFA",
+"startEpoch":1578585600,
+"endEpoch":1578621600,
+"state":"pre"
+}
+},
+{ 
+"type":"event",
+"id":"event.ea8dc624-9622-470b-b289-65bb35c3c0db",
+"title":"Liga dos Campeões UEFA",
+"resource":"http://qa.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=030&authlevel=0&type=event&defaultlanguage=en-US&country=USA&event=ea8dc624-9622-470b-b289-65bb35c3c0db",
+"link":{ 
+"type":"event",
+"external":false,
+"disclaimer":false,
+"uri":"layout:2757288:tile:event.ea8dc624-9622-470b-b289-65bb35c3c0db:link:ea8dc624-9622-470b-b289-65bb35c3c0db",
+"id":"ea8dc624-9622-470b-b289-65bb35c3c0db",
+"value":"ea8dc624-9622-470b-b289-65bb35c3c0db",
+"urlValue":"/en-us/event/ea8dc624-9622-470b-b289-65bb35c3c0db"
+},
+"images":[ 
+{ 
+"value":"http://artwork.qa.espncdn.com/categories/da52796f-2621-3351-8e77-955da92ea82d/16x9/384x216_20191217195610.jpg",
+"type":"1x1",
+"width":384,
+"height":216,
+"format":"jpg"
+}
+],
+"event":{ 
+"id":"ea8dc624-9622-470b-b289-65bb35c3c0db",
+"brand":"040",
+"title":"Liga dos Campeões UEFA",
+"startEpoch":1578672000,
+"endEpoch":1578708000,
+"state":"pre",
+"accessTags":[ 
+"urn:tve:foxsports1"
+]
+}
+},
+{ 
+"type":"event",
+"id":"event.3c4814f2-5505-46a2-a451-77aa9fc36426",
+"title":"Liga dos Campeões UEFA",
+"resource":"http://qa.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=030&authlevel=0&type=event&defaultlanguage=en-US&country=USA&event=3c4814f2-5505-46a2-a451-77aa9fc36426",
+"link":{ 
+"type":"event",
+"external":false,
+"disclaimer":false,
+"uri":"layout:2757288:tile:event.3c4814f2-5505-46a2-a451-77aa9fc36426:link:3c4814f2-5505-46a2-a451-77aa9fc36426",
+"id":"3c4814f2-5505-46a2-a451-77aa9fc36426",
+"value":"3c4814f2-5505-46a2-a451-77aa9fc36426",
+"urlValue":"/en-us/event/3c4814f2-5505-46a2-a451-77aa9fc36426"
+},
+"images":[ 
+{ 
+"value":"http://artwork.qa.espncdn.com/categories/da52796f-2621-3351-8e77-955da92ea82d/16x9/384x216_20191217195610.jpg",
+"type":"1x1",
+"width":384,
+"height":216,
+"format":"jpg"
+}
+],
+"event":{ 
+"id":"3c4814f2-5505-46a2-a451-77aa9fc36426",
+"brand":"040",
+"title":"Liga dos Campeões UEFA",
+"startEpoch":1578672000,
+"endEpoch":1578708000,
+"state":"pre",
+"accessTags":[ 
+"urn:tve:foxsports1"
+]
+}
+},
+{ 
+"type":"event",
+"id":"event.e7082ebc-6391-4dd6-b8bf-52d7f436929f",
+"title":"NBA Friday Presented by State Farm",
+"resource":"http://qa.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=030&authlevel=0&type=event&defaultlanguage=en-US&country=USA&event=e7082ebc-6391-4dd6-b8bf-52d7f436929f",
+"link":{ 
+"type":"event",
+"external":false,
+"disclaimer":false,
+"uri":"layout:2757288:tile:event.e7082ebc-6391-4dd6-b8bf-52d7f436929f:link:e7082ebc-6391-4dd6-b8bf-52d7f436929f",
+"id":"e7082ebc-6391-4dd6-b8bf-52d7f436929f",
+"value":"e7082ebc-6391-4dd6-b8bf-52d7f436929f",
+"urlValue":"/en-us/event/e7082ebc-6391-4dd6-b8bf-52d7f436929f"
+},
+"event":{ 
+"id":"e7082ebc-6391-4dd6-b8bf-52d7f436929f",
+"brand":"040",
+"title":"NBA Friday Presented by State Farm",
+"startEpoch":1578705300,
+"endEpoch":1578713700,
+"state":"pre"
+}
+},
+{ 
+"type":"event",
+"id":"event.fcff6009-afcc-44aa-9b15-4278032c2168",
+"title":"NBA Friday Presented by State Farm",
+"resource":"http://qa.gatekeeper.latam-abc.symphony.edgedatg.com/api/ws/pluto/v1/layout?brand=040&device=030&authlevel=0&type=event&defaultlanguage=en-US&country=USA&event=fcff6009-afcc-44aa-9b15-4278032c2168",
+"link":{ 
+"type":"event",
+"external":false,
+"disclaimer":false,
+"uri":"layout:2757288:tile:event.fcff6009-afcc-44aa-9b15-4278032c2168:link:fcff6009-afcc-44aa-9b15-4278032c2168",
+"id":"fcff6009-afcc-44aa-9b15-4278032c2168",
+"value":"fcff6009-afcc-44aa-9b15-4278032c2168",
+"urlValue":"/en-us/event/fcff6009-afcc-44aa-9b15-4278032c2168"
+},
+"event":{ 
+"id":"fcff6009-afcc-44aa-9b15-4278032c2168",
+"brand":"040",
+"title":"NBA Friday Presented by State Farm",
+"startEpoch":1578713700,
+"endEpoch":1578722700,
+"state":"pre"
+}
+}
    ]
 }
